@@ -287,14 +287,12 @@ div.body p, div.body dd, div.body li, div.body blockquote {
 }
 
 .release-date {
-    font-size: 10px;
-    padding: 0 4px 0 4px;
+    font-size: 12px;
+    padding: 0 5px 0 5px;
     background: #e8edf0;
     height: fit-content;
     color: #007fa8;
-    font-weight: 500;
-    border-radius: 4px;
-    letter-spacing: .025rem;
+    border-radius: 5px;
 }
 
 /* New branding changes */
@@ -474,6 +472,15 @@ img.logo {
 
   .pagefind-ui__form, .pagefind-modular-input, .search-results {
     color: #ececec !important;
+  }
+  
+  .release-date {
+    font-size: 12px;
+    padding: 0 5px 0 5px;
+    background: #393939;
+    height: fit-content;
+    color: #3fc3ff;
+    border-radius: 4px;
   }
 
   :root {
