@@ -475,12 +475,8 @@ img.logo {
   }
   
   .release-date {
-    font-size: 12px;
-    padding: 0 5px 0 5px;
     background: #393939;
-    height: fit-content;
     color: #3fc3ff;
-    border-radius: 4px;
   }
 
   :root {
