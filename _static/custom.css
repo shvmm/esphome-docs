@@ -309,9 +309,9 @@ div.body h1 {
 .custom-footer{
   border-top: 1px solid #3E4349;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 500px;
   padding: 1rem 0;
 }
 
